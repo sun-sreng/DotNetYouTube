@@ -1,5 +1,3 @@
-using System;
-
 namespace Features.Extensions;
 
 public static class StringExtension
